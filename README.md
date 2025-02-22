@@ -1,6 +1,8 @@
 # DnD-Decoder
 A simple, rough-around-the-edges decoder for a cipher my friend made for a dnd campaign
 
+The decoder is made fully in Node.js, so you will need to install it to use it.
+
 The program includes 2 folders:
 "Lib" folder, which includes the functions and decoder lists which the source code uses
 "proj" folder which includes the source code itself.
